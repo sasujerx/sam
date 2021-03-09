@@ -1,0 +1,52 @@
+
+html{text-align: center;
+	font-size: 13px;
+	font-family: 'Noto Sans JP', sans-serif;
+background-color:#FF622D;
+;
+}body {
+  width: 700px;
+  margin: 0px auto;
+  background-color: #FAF32D;
+  padding: 0 25px 25px 25px;
+  border: 10px solid red;
+}
+
+h1{text-align: center;
+	 margin: 0;
+  padding: 20px 0;
+  color: purple;
+  text-shadow: 3px 3px 1px black; 
+	font-size: 40px;
+	;
+}
+p,a{ font-size: 15px;
+  line-height: 2;
+  letter-spacing: 1px;
+text-shadow: 2px 2px 2px red;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+img{display: block;
+margin: 0 auto}
+}
+li{ font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+article{
+  border: 10px;
+  border-color: #FFFFFF;
+}
+article h2:first-child{
+  font-size: 150% ;
+  color: #99CCFF;
+  font-weight: bold;
+}
+.felizañonuevo{
+  color:blue;
+}
+
+.color{
+  color: red
+}
